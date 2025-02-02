@@ -20,16 +20,15 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=themonstersd13&count_private=true&theme=tokyonight&showicons=true)]()<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=themonstersd13&langs_count=5&theme=tokyonight)]()
 
-Feel free to explore my GitHub repositories to see the projects I have worked on using these technologies.
 <span>
 
-## Leetcode Profile
+# Leetcode Profile
 
 <a href="https://leetcode.com/saurabhdoiphode1335">
 <img height="316" src="https://leetcard.jacoblin.cool/saurabhdoiphode1335?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Bamane's Leetcode Stats"/>
 </a>
 
-## Codeforces Profile
+# Codeforces Profile
 
 <a href="https://codeforces.com/profile/saurabh.doiphode">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=saurabh.doiphode&theme=github_dark&force_username=true&border_color=404040" alt="redheadphone Codeforces Stats"/>
@@ -37,5 +36,7 @@ Feel free to explore my GitHub repositories to see the projects I have worked on
 
 </span>
 
-
+## Contact Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh_sd_13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-doiphode/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
 </div>
