@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=themonstersd13&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=themonstersd13&color=blue) -->
 
 # About Me
 
