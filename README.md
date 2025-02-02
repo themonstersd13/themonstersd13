@@ -14,11 +14,6 @@ Hello, I'm Saurabh Doiphode, I am a MERN stack developer and interested in solvi
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=themonstersd13&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=themonstersd13&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themonstersd13&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -28,6 +23,10 @@ Hello, I'm Saurabh Doiphode, I am a MERN stack developer and interested in solvi
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
+# 📊 GitHub Stats:
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=themonstersd13&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=themonstersd13&langs_count=5&theme=tokyonight)]()
 
 Feel free to explore my GitHub repositories to see the projects I have worked on using these technologies.
 
