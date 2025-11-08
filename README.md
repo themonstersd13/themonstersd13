@@ -42,9 +42,6 @@
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=saurabh.doiphode&theme=github_dark&force_username=true&border_color=404040" alt="redheadphone Codeforces Stats"/>
 </a>
 
-# Holopin Stats
-[![An image of @themonstersd13 's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/themonstersd13)](https://holopin.io/@themonstersd13)
-
 </span>
 
 ## Contact Me
